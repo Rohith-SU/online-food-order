@@ -37,25 +37,24 @@ Live Demo:
 
 ---
 
-## 🖼️ Screenshots
+### Home Page
+![Home](./public/images/home-page.png)
 
-### **Home Page**
-![Home](public/images/home-page.png)
+### Restaurant Page
+![Restaurant](./public/images/restaurant-page.png)
 
-### **Restaurant Page**
-![Restaurant](public/images/restaurant-page.png)
+### Menu Page
+![Menu](./public/images/menu-page.png)
 
-### **Menu Page**
-![Menu](public/images/menu-page.png)
+### Cart Page
+![Cart](./public/images/cart-page.png)
 
-### **Cart Page**
-![Cart](public/images/cart-page.png)
+### Checkout Page
+![Checkout](./public/images/checkout-page.png)
 
-### **Checkout Page**
-![Checkout](public/images/checkout-page.png)
+### Order Success Page
+![Order Success](./public/images/order-success.png)
 
-### **Order Success Page**
-![Order Success](public/images/order-success.png)
 
 ---
 
