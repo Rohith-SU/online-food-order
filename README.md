@@ -74,3 +74,41 @@ Live Demo:
 
 ## 📂 Project Structure
 
+online-food-order/
+│
+├── public/
+│ ├── index.html
+│ ├── screenshots/
+│ │ ├── home-page.png
+│ │ ├── restaurant-page.png
+│ │ ├── menu-page.png
+│ │ ├── cart-page.png
+│ │ ├── checkout-page.png
+│ │ └── order-success.png
+│ └── images/ (restaurant & menu images)
+│
+├── src/
+│ ├── components/
+│ │ ├── Header.js
+│ │ ├── RestaurantCard.js
+│ │ └── MenuItemCard.js
+│ │
+│ ├── context/
+│ │ └── CartContext.js
+│ │
+│ ├── pages/
+│ │ ├── Home.js
+│ │ ├── Restaurants.js
+│ │ ├── Restaurant.js
+│ │ ├── Cart.js
+│ │ ├── Checkout.js
+│ │ └── OrderSuccess.js
+│ │
+│ ├── App.js
+│ ├── index.js
+│ └── styles.css
+│
+├── package.json
+├── package-lock.json
+└── README.md
+
