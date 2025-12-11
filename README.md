@@ -32,23 +32,24 @@ OnlineFood is a fully responsive React-based food ordering web application where
 
 ## 📸 Screenshots
 
-### **Home Page**
-![Home Page](public/images/home-page.png)
+### Home Page
+![Home Page](public/screenshots/home.png)
 
-### **Restaurant Page**
-![Restaurant](public/images/restaurant-page.png)
+### Restaurant Page
+![Restaurant](public/screenshots/restaurant.png)
 
-### **Menu Page**
-![Menu](public/images/menu-page.png)
+### Menu Page
+![Menu](public/screenshots/menu.png)
 
-### **Cart Page**
-![Cart](public/images/cart-page.png)
+### Cart Page
+![Cart](public/screenshots/cart.png)
 
-### **Checkout Page**
-![Checkout](public/images/checkout-page.png)
+### Checkout Page
+![Checkout](public/screenshots/checkout.png)
 
-### **Order Success Page**
-![Order Success](public/images/order-success.png)
+### Order Success Page
+![Order Success](public/screenshots/success.png)
+
 
 ---
 
