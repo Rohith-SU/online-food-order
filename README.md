@@ -1,68 +1,75 @@
-# OnlineFood – React Food Ordering Application
+# 🛒 OnlineFood – React Food Ordering Application
 
-OnlineFood is a fully responsive React-based food ordering web application where users can browse restaurants, view menus, add items to a cart, update quantities, and place orders. The app demonstrates modern React concepts such as reusable components, routing, real-time cart updates, and context-based state management.
+**OnlineFood** is a fully responsive and modern food-ordering web application built using **React**.  
+Users can browse restaurants, explore menus, update cart items in real time, and place orders seamlessly.
+
+Live Demo:  
+👉 **https://rohith-su.github.io/online-food-order/**
+
 
 ---
 
 ## 🚀 Features
 
-### **Restaurant Browsing**
-- View top restaurants with images, cuisine type, and delivery duration.
-- Fully responsive grid layout.
+### **1. Restaurant Browsing**
+- View top restaurants with images, cuisine type, and delivery time.
 
-### **Menu Display**
-- Each restaurant shows a detailed menu with item images, names, and prices.
-- “Add to Cart” instantly updates the shopping cart.
+### **2. Menu Display**
+- Each restaurant displays a complete menu with images, prices, and Add-to-Cart options.
 
-### **Shopping Cart (Live Update)**
-- Increase or decrease item quantities.
-- Remove items individually.
-- Automatic subtotal calculation.
+### **3. Shopping Cart (Live Update)**
+- Add/remove items  
+- Increase/decrease quantity  
+- Auto-calculated subtotal and total  
 
-### **Checkout Page**
-- User inputs name.
-- Displays complete order summary with quantities and price breakdown.
-- Calculates total dynamically.
+### **4. Checkout Page**
+- Enter user details  
+- Displays full order summary  
+- Final order total
 
-### **Order Success Page**
-- Displays a confirmation message using the entered name.
-- Cart auto-clears after order completion (using React Context API).
+### **5. Order Success Page**
+- Displays confirmation message  
+- Cart resets automatically after order
+
+### **6. Responsive UI**
+- Fully optimized for desktop and mobile  
+- Clean, modern design
 
 ---
 
-## 📸 Screenshots
+## 🖼️ Screenshots
 
-### Home Page
-![Home Page](public/screenshots/home.png)
+### **Home Page**
+![Home](public/images/home-page.png)
 
-### Restaurant Page
-![Restaurant](public/screenshots/restaurant.png)
+### **Restaurant Page**
+![Restaurant](public/images/restaurant-page.png)
 
-### Menu Page
-![Menu](public/screenshots/menu.png)
+### **Menu Page**
+![Menu](public/images/menu-page.png)
 
-### Cart Page
-![Cart](public/screenshots/cart.png)
+### **Cart Page**
+![Cart](public/images/cart-page.png)
 
-### Checkout Page
-![Checkout](public/screenshots/checkout.png)
+### **Checkout Page**
+![Checkout](public/images/checkout-page.png)
 
-### Order Success Page
-![Order Success](public/screenshots/success.png)
-
+### **Order Success Page**
+![Order Success](public/images/order-success.png)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **React JS**
-- **React Router**
-- **Context API**
-- **CSS (Responsive Layouts)**
-- **JavaScript (ES6+)**
+| Technology | Purpose |
+|-----------|---------|
+| **React.js** | UI Framework |
+| **React Router** | Page routing |
+| **Context API** | Global Cart State Management |
+| **CSS / Flexbox / Responsive Layouts** | Styling |
+| **GitHub Pages** | Deployment |
 
 ---
 
-## 📦 Installation
+## 📂 Project Structure
 
-### 1. Clone the repository
