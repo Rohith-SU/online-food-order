@@ -37,6 +37,8 @@ Live Demo:
 
 ---
 
+## 📸 Screenshots
+
 ### Home Page
 ![Home](./public/images/home-page.png)
 
