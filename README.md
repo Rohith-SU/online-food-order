@@ -1,49 +1,67 @@
 # OnlineFood – React Food Ordering Application
 
-OnlineFood is a fully responsive and dynamic food ordering web application 
-built using React. Users can browse restaurants, view menus, add items to a 
-cart, and place orders seamlessly with real-time updates.
+OnlineFood is a fully responsive React-based food ordering web application where users can browse restaurants, view menus, add items to a cart, update quantities, and place orders. The app demonstrates modern React concepts such as reusable components, routing, real-time cart updates, and context-based state management.
 
 ---
 
 ## 🚀 Features
 
-### Restaurant Browsing
-- View top restaurants with images, cuisine type, and delivery time.
+### **Restaurant Browsing**
+- View top restaurants with images, cuisine type, and delivery duration.
+- Fully responsive grid layout.
 
-### Menu Display
-- Each restaurant contains a full menu with pictures and prices.
+### **Menu Display**
+- Each restaurant shows a detailed menu with item images, names, and prices.
+- “Add to Cart” instantly updates the shopping cart.
 
-### Shopping Cart (Live Update)
-- Add/remove items
-- Increase/decrease item quantity
-- Auto-calculated subtotal and total
+### **Shopping Cart (Live Update)**
+- Increase or decrease item quantities.
+- Remove items individually.
+- Automatic subtotal calculation.
 
-### Checkout Page
-- User name input
-- Order summary with itemized billing
+### **Checkout Page**
+- User inputs name.
+- Displays complete order summary with quantities and price breakdown.
+- Calculates total dynamically.
 
-### Order Confirmation
-- Displays a confirmation screen with user's name and final price.
+### **Order Success Page**
+- Displays a confirmation message using the entered name.
+- Cart auto-clears after order completion (using React Context API).
 
-### Technical Features
-- Built using **React**
-- **Context API** for cart state management
-- **React Router** for navigation
-- Clean and reusable components
-- Fully responsive UI
+---
+
+## 📸 Screenshots
+
+### **Home Page**
+![Home Page](public/images/home-page.png)
+
+### **Restaurant Page**
+![Restaurant](public/images/restaurant-page.png)
+
+### **Menu Page**
+![Menu](public/images/menu-page.png)
+
+### **Cart Page**
+![Cart](public/images/cart-page.png)
+
+### **Checkout Page**
+![Checkout](public/images/checkout-page.png)
+
+### **Order Success Page**
+![Order Success](public/images/order-success.png)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- React JS  
-- React Router DOM  
-- Context API  
-- CSS / Flexbox / Grid  
-- Create React App  
+- **React JS**
+- **React Router**
+- **Context API**
+- **CSS (Responsive Layouts)**
+- **JavaScript (ES6+)**
 
 ---
 
-## 📁 Project Structure
+## 📦 Installation
 
+### 1. Clone the repository
